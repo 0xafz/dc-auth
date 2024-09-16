@@ -31,5 +31,5 @@ yarn dev
 
 ## Credits
 
-1. [open source](https://gist.github.com/zkindest/d5cfdef2d1b7767e8df321f9fd56f79b)
+1. [open source](https://gist.github.com/af4oz/d5cfdef2d1b7767e8df321f9fd56f79b)
 2. Thanks to [@thunghiemdinh](https://twitter.com/thunghiemdinh) for create and maintaining [devchallenges](https://devchallenges.io/)
