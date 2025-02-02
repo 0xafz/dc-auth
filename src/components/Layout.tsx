@@ -14,14 +14,14 @@ const Layout = ({ children }: LayoutProps) => {
       <footer>
         built with Next.js, Prisma and{" "}
         <a
-          href="https://gist.github.com/broken-vagrant/d5cfdef2d1b7767e8df321f9fd56f79b"
+          href="https://gist.github.com/af4oz/d5cfdef2d1b7767e8df321f9fd56f79b"
           className="link"
         >
           Open source
         </a>
         . by{" "}
-        <a href="https://twitter.com/broken_vagrant" className="link">
-          @broken_vagrant
+        <a href="https://twitter.com/af4oz" className="link">
+          @af4oz
         </a>
       </footer>
       <style jsx>{`
